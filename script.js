@@ -1,4 +1,2 @@
 
-function openLink(url) {
-    window.open(url, '_blank');
-}
+function openLink(url) { window.open(url, '_blank'); }
